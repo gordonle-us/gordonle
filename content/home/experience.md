@@ -25,25 +25,39 @@ experience:
   - title: Graduate Assistant
     company: Centers for Disease Control and Prevention
     company_url: ''
-    company_logo: org-gc
+    company_logo: 
     location: Atlanta, GA
     date_start: '2021-10-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Analyzing data from PHIA surveys
+        * Updating HIV epidemiologic country profiles for PEPFAR countries
+        * Assisting development and tracking of health equity indicators for PEPFAR countries
         
   - title: Research and Project Consultant
     company: Advantage Consulting LLC
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: Atlanta, GA
     date_start: '2021-06-01'
     date_end: ''
     description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Graduate Research Assistant
+    company: Injury Prevention Research Center at Emory
+    company_url: ''
+    company_logo: 
+    location: Atlanta, GA
+    date_start: '2020-10-01'
+    date_end: '2021-09-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Designed public surveillance mapping tool and data visualizations
+        * Conducted literature reviews and data analyses
+        * Cleaned and analyzed complex national and statewide datasets (BRFSS, YRBS, etc.)
 
 design:
   columns: '2'

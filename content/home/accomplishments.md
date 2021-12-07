@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/L35KMFBRSX4M
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2021-09-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: "COVID-19 Contact Tracing"
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.credly.com/badges/c7a1c68a-e162-436f-9858-a677c68e39f2?source=linked_in_profile
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2021-04-01"
   description: ""
-  organization: DataCamp
+  organization: SAS
+  organization_url: https://www.edx.org
+  title: "SAS Programming: Data Manipulation"
+  url: https://www.credly.com/badges/c7a1c68a-e162-436f-9858-a677c68e39f2?source=linked_in_profile
+- certificate_url: https://www.credly.com/badges/b4395bbc-448f-4eee-815a-100c402d0601?source=linked_in_profile
+  date_end: ""
+  date_start: "2020-10-01"
+  description: ""
+  organization: SAS
   organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  title: "SAS Programming: Essentials"
   url: ""
 
 design:
