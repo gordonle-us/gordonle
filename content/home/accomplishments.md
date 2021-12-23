@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Skills and Certifications'
 subtitle:
 
 # Date format
@@ -31,14 +31,14 @@ item:
   organization_url: https://www.coursera.org
   title: "COVID-19 Contact Tracing"
   url: ""
-- certificate_url: https://www.credly.com/badges/c7a1c68a-e162-436f-9858-a677c68e39f2?source=linked_in_profile
+- certificate_url: https://www.credly.com/badges/109dc5f7-be99-4ec1-bf57-6c8ced6497da?source=linked_in_profile
   date_end: ""
-  date_start: "2021-04-01"
+  date_start: "2021-12-01"
   description: ""
   organization: SAS
-  organization_url: https://www.edx.org
-  title: "SAS Programming: Data Manipulation"
-  url: https://www.credly.com/badges/c7a1c68a-e162-436f-9858-a677c68e39f2?source=linked_in_profile
+  organization_url: https://sas.com/
+  title: "SAS Certified Specialist: Base Programming"
+  url: https://www.credly.com/badges/109dc5f7-be99-4ec1-bf57-6c8ced6497da?source=linked_in_profile
 - certificate_url: https://www.credly.com/badges/b4395bbc-448f-4eee-815a-100c402d0601?source=linked_in_profile
   date_end: ""
   date_start: "2020-10-01"
